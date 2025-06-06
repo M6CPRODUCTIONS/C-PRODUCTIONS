@@ -49,6 +49,7 @@
 </head>
 <body>
   <h1>Bienvenue au CSE</h1>
+  <p>Retrouvez ici les liens pour accéder au site du CSE ou télécharger l'application LiveCSE.</p>
   <a href="https://www.cse-cproductions.fr/connected-homepage/" class="btn btn-site" target="_blank" rel="noopener">Accéder au site du CSE</a>
   <a href="https://play.google.com/store/apps/details?id=com.lve.communication.main&hl=fr&pli=1" class="btn btn-android" target="_blank" rel="noopener">Télécharger sur Google Play</a>
   <a href="https://apps.apple.com/fr/app/appli-cse-by-livecse/id6670623952" class="btn btn-ios" target="_blank" rel="noopener">Télécharger sur l’App Store</a>
