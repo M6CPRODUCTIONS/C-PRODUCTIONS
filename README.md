@@ -21,7 +21,7 @@
     }
     .btn {
       display: block;
-      width: 250px;
+      width: 280px;
       margin: 15px auto;
       padding: 15px 0;
       font-size: 18px;
@@ -49,6 +49,13 @@
     .btn-ios:hover {
       background-color: #444444;
     }
+    .instruction {
+      max-width: 600px;
+      margin: 10px auto 30px;
+      font-size: 16px;
+      color: #333;
+      line-height: 1.5;
+    }
   </style>
 </head>
 <body>
@@ -56,7 +63,18 @@
   <p>Accédez au site du CSE ou téléchargez l'application LiveCSE :</p>
 
   <a href="https://www.cse-cproductions.fr/connected-homepage/" class="btn btn-site" target="_blank" rel="noopener">Accéder au site du CSE</a>
+  <div class="instruction">
+    <strong>Pour accéder au site :</strong><br>
+    1 – Créez votre compte en indiquant le code : <strong>CPROD25</strong><br>
+    2 – Laissez-vous guider, et vérifiez vos spams !
+  </div>
+
   <a href="https://play.google.com/store/apps/details?id=com.lve.communication.main&hl=fr&pli=1" class="btn btn-android" target="_blank" rel="noopener">Télécharger sur Google Play</a>
   <a href="https://apps.apple.com/fr/app/appli-cse-by-livecse/id6670623952" class="btn btn-ios" target="_blank" rel="noopener">Télécharger sur l’App Store</a>
+  <div class="instruction">
+    <strong>Pour accéder à l’appli mobile :</strong><br>
+    1 – Entrez le code d’identification du CSE : <strong>csecprod</strong><br>
+    2 – Puis créez-vous un compte en utilisant le code d’inscription : <strong>CPROD25</strong>
+  </div>
 </body>
 </html>
