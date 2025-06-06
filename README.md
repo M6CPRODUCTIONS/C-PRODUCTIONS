@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
@@ -59,4 +60,3 @@
   <a href="https://apps.apple.com/fr/app/appli-cse-by-livecse/id6670623952" class="btn btn-ios" target="_blank" rel="noopener">Télécharger sur l’App Store</a>
 </body>
 </html>
-
